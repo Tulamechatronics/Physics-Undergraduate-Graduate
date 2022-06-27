@@ -7,7 +7,7 @@
 - [Engineering](#Engineering)
 
 ------
-### Physics
+## Physics
 
 #### Mechanics
 
@@ -21,4 +21,17 @@
 #### [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/)
 
 
-### Engineering
+#### Wave and Oscillation
+
+ * [Differential Equation - MIT OCW's 18.03]()
+ * [MIT OCW's 8.03]()
+ * [David Morin : Wave - Draft](https://scholar.harvard.edu/david-morin/waves?fbclid=IwAR23QlgwBE2U8GFQhkKXkcDaFv8vE6vxuljkyO_NdBF85bMOqs5K0qjcpRQ)
+
+#### Intermediate Electromagetism
+
+ * [Introduction to Electrodynamics by Griffiths]()
+ * [David Tong's note on Vector Calculus](http://www.damtp.cam.ac.uk/user/tong/vc.html)
+
+
+------
+## Engineering
