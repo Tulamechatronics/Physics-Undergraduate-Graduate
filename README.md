@@ -5,7 +5,7 @@
 ## Contents
 - [Physics](#Physics)
 - [Engineering](#Engineering)
-- [Inspired:](#Inspired)
+- [Inspired](#Inspired)
 
 ------
 ## Physics
@@ -64,6 +64,6 @@
   * [Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
 
 
-## Inspired:
+## Inspired
 
  * [Kevin Zhou](https://knzhou.github.io/)
