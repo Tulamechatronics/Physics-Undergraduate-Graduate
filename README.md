@@ -67,3 +67,4 @@
 ## Inspired
 
  * [Kevin Zhou](https://knzhou.github.io/)
+ * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
