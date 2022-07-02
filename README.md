@@ -58,6 +58,10 @@
 in physics, because linear algebra is arguably even more useful than calculus. You'll probably
 still need to use it if you go into computer science, finance, data science, or even, god forbid,
 management consulting.`
+ * [UCBerkeleyX: Quantum Mechanics Quantum Computation](https://www.youtube.com/playlist?list=PL2fCZiDqOYYWR3UR9zkKrmW03igCZSL7P)
+ * [Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.amazon.com/gp/product/1107002176/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=michaniels-20http://www.michaelnielsen.org/qcqi/)
+ * [Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [Ph219/CS219
+Quantum Computation Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
 
 #### Advanced Quantum Mechanics
 
