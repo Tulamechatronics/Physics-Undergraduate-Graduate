@@ -54,7 +54,10 @@
 
 ###### Quantum Computing
  * [Introduction to Linear Algebra by Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?crid=2GVZYOJZ577O8&keywords=Introduction+to+Linear+Algebra+by+Strang%2C&qid=1656746891&sprefix=introduction+to+linear+algebra+by+strang%2C%2Caps%2C562&sr=8-1)
- * [MIT OCW's 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+ * [MIT OCW's 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) `(This is an excellent thing to do in general, even if you don't stay
+in physics, because linear algebra is arguably even more useful than calculus. You'll probably
+still need to use it if you go into computer science, finance, data science, or even, god forbid,
+management consulting.`
 
 #### Advanced Quantum Mechanics
 
