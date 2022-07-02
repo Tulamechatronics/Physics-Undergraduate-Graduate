@@ -12,16 +12,16 @@
 
 #### Mechanics
 
-  * [An Introduction to Mechanics by Kleppner and Kolenkow](none)
-  * [Indroduction to Classical Mechanics by Morin](none)
+  * [An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
+  * [Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1)
 
 #### Electricity and Magnetism
 
-  * [Electricity and Magnetism by Pucell and Morin](none)
+  * [Electricity and Magnetism by Pucell and Morin](https://www.amazon.com/Electricity-Magnetism-Edward-M-Purcell/dp/1107014026/ref=sr_1_fkmr3_1?crid=2MFCEBW7F7AIQ&keywords=Electricity+and+Magnetism+by+Pucell+and+Morin&qid=1656737221&sprefix=electricity+and+magnetism+by+pucell+and+morin%2Caps%2C281&sr=8-1-fkmr3)
 
 #### Wave and Thermodynamics
-  * [Halliday, Resnick and Krane]()
-  * [Competitive Physics Vol-2 by Wang and Ricardo]()
+  * [Halliday, Resnick and Krane_Vol-1](https://www.amazon.com/Physics-1-Robert-Resnick/dp/0471320579/ref=sr_1_10?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737355&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-10) | [Halliday, Resnick and Krane_Vol-2](https://www.amazon.com/Physics-2-David-Halliday/dp/0471401943/ref=sr_1_13?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737463&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-13)
+  * [Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
   * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/)
