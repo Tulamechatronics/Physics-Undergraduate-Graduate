@@ -53,6 +53,8 @@
  * [MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
 
 ###### Quantum Computing
+ * [Introduction to Linear Algebra by Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?crid=2GVZYOJZ577O8&keywords=Introduction+to+Linear+Algebra+by+Strang%2C&qid=1656746891&sprefix=introduction+to+linear+algebra+by+strang%2C%2Caps%2C562&sr=8-1)
+ * [MIT OCW's 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 #### Advanced Quantum Mechanics
 
