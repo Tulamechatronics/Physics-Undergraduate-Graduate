@@ -29,13 +29,13 @@
 
 #### Wave and Oscillation
 
- * [Differential Equation - MIT OCW's 18.03]()
- * [MIT OCW's 8.03]()
+ * [Differential Equation - MIT OCW's 18.03](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+ * [MIT OCW's 8.03](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
  * [David Morin : Wave - Draft](https://scholar.harvard.edu/david-morin/waves?fbclid=IwAR23QlgwBE2U8GFQhkKXkcDaFv8vE6vxuljkyO_NdBF85bMOqs5K0qjcpRQ)
 
 #### Intermediate Electromagetism
 
- * [Introduction to Electrodynamics by Griffiths]()
+ * [Introduction to Electrodynamics by Griffiths](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419/ref=sr_1_1?crid=1BK86Q9AN8MEI&keywords=Introduction+to+Electrodynamics+by+Griffiths&qid=1656737667&sprefix=introduction+to+electrodynamics+by+griffiths%2Caps%2C755&sr=8-1)
  * [David Tong's note on Vector Calculus](http://www.damtp.cam.ac.uk/user/tong/vc.html)
 
 #### Lagrangian and Hamiltonian Mechanics 
