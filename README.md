@@ -48,10 +48,15 @@
  * [Thermal Physics by Schroeder](https://www.youtube.com/playlist?list=PLMcpDl1Pr-vjXYLBoIULvlWGlcBNu8Fod)
 
 #### Quantum Mechanics
+###### Core Quantum Mechanics
+ * [Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
+ * [MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
+
+###### Quantum Computing
 
 #### Advanced Quantum Mechanics
 
-#### Quantum Computing
+
 
 ------
 ## Engineering
