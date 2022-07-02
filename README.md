@@ -10,6 +10,10 @@
 ------
 ## Physics
 
+#### Mental models
+
+  * [The First Principles Method Explained by Elon Musk](https://www.youtube.com/watch?v=NV3sBlRgzTI)
+
 #### Mechanics
 
   * [An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
