@@ -6,8 +6,8 @@
 * "As a matter of fact, I love to teach. I like to think of new ways of looking at things as I explain them, to make them clearer — but maybe I’m not making them clearer. Probably what I’m doing is entertaining myself."
 –feynman Omni interview, February 1979
 * Teach your students
-• to doubt,
-• to think,
+  ** to doubt,
+  ** to think,
 • to communicate,
 • to question,
 • to make mistakes,
