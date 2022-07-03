@@ -9,7 +9,7 @@
 
 ------
 ## Physics
-<img src="https://github.com/Tulamechatronics/Gap_Knowledge/blob/main/photos/Solvay%20Conference%20on%20Physics.jpg" width=30% height=40% />
+<img src="https://github.com/Tulamechatronics/Gap_Knowledge/blob/main/photos/Solvay%20Conference%20on%20Physics.jpg" width=70% height=40% />
 
 
 ### Mental models
