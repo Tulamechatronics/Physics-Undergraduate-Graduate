@@ -19,7 +19,22 @@
   * [How Elon Musk solves problems: First principles thinking explained | Lex Fridman](https://www.youtube.com/watch?v=54OSbbtXrdI&t=295s)
   
 ### Curriculum   
-
+-----
+#### Pre University
+  * [Mechanics, Heat, Oscillations and Waves](https://www.youtube.com/playlist?list=PL4NqSBWEKZtesqC_-mp3iuGpX8RQ5P1Ps) `Prof. Balakrishnan nickname Feynman Indian`
+  * [Electro Magnetic Field](https://www.youtube.com/playlist?list=PL1CE5B4FFFA997E5D)
+  * [Yale Physics 1-2](https://oyc.yale.edu/physics)
+  
+##### Calculus  
+  * [MIT OCW's 18.01 SINGLE VARIABLE CALCULUS](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+  * [MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
+  
+##### [Algebra](https://www.youtube.com/c/MathTheBeautiful/playlists)
+  *
+  *
+  *
+  *
+-----
 #### Mechanics
 
   * [An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
@@ -34,6 +49,8 @@
   * [Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
+  * [Caltech - The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
+  * [Sean Caroll - The Biggest Ideas in the Universe ](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
   * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/)
   * [Understanding Physics by Cassidy, Holton, and Rutherford](https://www.amazon.com/Understanding-Physics-Undergraduate-Texts-Contemporary/dp/0387987568/ref=sr_1_1?crid=32JJ1KC3O4JVI&keywords=Understanding+Physics+by+Cassidy%2C+Holton%2C+and+Rutherford&qid=1656371521&sprefix=understanding+physics+by+cassidy%2C+holton%2C+and+rutherford%2Caps%2C717&sr=8-1)
 
@@ -75,9 +92,11 @@ management consulting.`
 ##### Advanced Quantum Mechanics
 
 ### General Relativity
+ * [Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for dee p understanding`
  * [general relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
  
  ### Particle Physics
+ * []()
  
 
 
