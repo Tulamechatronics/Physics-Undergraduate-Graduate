@@ -75,7 +75,7 @@ management consulting.`
 ##### Advanced Quantum Mechanics
 
 ### General Relativity
- * [general relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml)
+ * [general relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
  
  ### Particle Physics
  
