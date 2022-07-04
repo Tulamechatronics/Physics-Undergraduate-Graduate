@@ -47,12 +47,12 @@
 
 #### Wave and Thermodynamics
   * [📚 Halliday, Resnick and Krane_Vol-1](https://www.amazon.com/Physics-1-Robert-Resnick/dp/0471320579/ref=sr_1_10?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737355&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-10) | [📚 Halliday, Resnick and Krane_Vol-2](https://www.amazon.com/Physics-2-David-Halliday/dp/0471401943/ref=sr_1_13?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737463&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-13)
-  * [Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
+  * [📚 Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
   * [Caltech - The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
   * [Sean Caroll - The Biggest Ideas in the Universe ](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
-  * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/)
+  * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/) | []()
   * [Understanding Physics by Cassidy, Holton, and Rutherford](https://www.amazon.com/Understanding-Physics-Undergraduate-Texts-Contemporary/dp/0387987568/ref=sr_1_1?crid=32JJ1KC3O4JVI&keywords=Understanding+Physics+by+Cassidy%2C+Holton%2C+and+Rutherford&qid=1656371521&sprefix=understanding+physics+by+cassidy%2C+holton%2C+and+rutherford%2Caps%2C717&sr=8-1)
 
 #### Wave and Oscillation
@@ -78,7 +78,7 @@
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
  * [📚 Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
- * [MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
+ * [🎬 MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [🎬 MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
 
 ###### Quantum Computing
  * [Introduction to Linear Algebra by Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?crid=2GVZYOJZ577O8&keywords=Introduction+to+Linear+Algebra+by+Strang%2C&qid=1656746891&sprefix=introduction+to+linear+algebra+by+strang%2C%2Caps%2C562&sr=8-1)
@@ -93,8 +93,8 @@ management consulting.`
 ##### Advanced Quantum Mechanics
 
 ### General Relativity
- * [Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
- * [general relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
+ * [🎬 Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
+ * [🎬 General Relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
  * [📚 Gravity by Hartle](https://www.amazon.com/Gravity-Introduction-Einsteins-General-Relativity/dp/0805386629)
  * [📚 A First Course in General Relativity by Schutz](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054/ref=sr_1_1?keywords=A+First+Course+in+General+Relativity+by+Schutz&qid=1656906689&s=books&sr=1-1)
  
@@ -110,8 +110,8 @@ management consulting.`
 
 
 #### Electrical
-  * [Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
-  * [Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
+  * [🎬 Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
+  * [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
 
 
 ## Inspired
