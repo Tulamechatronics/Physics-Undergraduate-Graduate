@@ -50,10 +50,10 @@
   * [📚 Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
-  * [Caltech - The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
-  * [Sean Caroll - The Biggest Ideas in the Universe ](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
-  * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/) | []()
-  * [Understanding Physics by Cassidy, Holton, and Rutherford](https://www.amazon.com/Understanding-Physics-Undergraduate-Texts-Contemporary/dp/0387987568/ref=sr_1_1?crid=32JJ1KC3O4JVI&keywords=Understanding+Physics+by+Cassidy%2C+Holton%2C+and+Rutherford&qid=1656371521&sprefix=understanding+physics+by+cassidy%2C+holton%2C+and+rutherford%2Caps%2C717&sr=8-1)
+  * [🎬 Caltech - The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
+  * [🎬 Sean Caroll - The Biggest Ideas in the Universe ](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+  * [Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/) | [empty]() | [empty]()
+  * [📗 Understanding Physics by Cassidy, Holton, and Rutherford](https://www.amazon.com/Understanding-Physics-Undergraduate-Texts-Contemporary/dp/0387987568/ref=sr_1_1?crid=32JJ1KC3O4JVI&keywords=Understanding+Physics+by+Cassidy%2C+Holton%2C+and+Rutherford&qid=1656371521&sprefix=understanding+physics+by+cassidy%2C+holton%2C+and+rutherford%2Caps%2C717&sr=8-1)
 
 #### Wave and Oscillation
 
