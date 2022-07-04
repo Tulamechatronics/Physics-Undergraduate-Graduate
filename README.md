@@ -5,8 +5,9 @@
 
 ## Contents
 - [Physics](#Physics)
-- [Engineering](#Engineering)
 - [Inspired](#Inspired)
+- [Engineering](#Engineering)
+
 
 ------
 ## Physics
@@ -103,10 +104,21 @@ management consulting.`
  ### Particle Physics
  * [🎬 Particle Physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf) | [📝 Course Note](https://inside.mines.edu/~aflourno/Particle/423.shtml)
  * [📝 David Tong's notes on Particle Physics](http://www.damtp.cam.ac.uk/user/tong/particle.html)
- 
-
+------
+### Additional
+**Topics Cover in this Curriculum:** `Lower-Division Undergraduate Courses` `Upper-Division Undergraduate Courses` `Graduate Courses` 
+ * [Courses Taught By Richard Fitzpatrick : University of Texas at Austin](https://farside.ph.utexas.edu/teaching/teaching.html) `Courses  Hightlight`
+ * [Link to all courses](https://farside.ph.utexas.edu/teaching/)
 
 ------
+
+## Inspired
+ * [Kevin Zhou](https://knzhou.github.io/)
+ * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
+ * [Brown physics student earns Ph.D. at age 89](https://www.brown.edu/news/2021-11-12/steiner?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR3IqbvsoSn-MuAUbU3TU6FW1dXEItcM91TFMjzduHbmVz7Ps37Up_31L2M)
+
+-----
+
 ## Engineering
 <img src="https://github.com/Tulamechatronics/The-Tree-of-Knowledge/blob/main/photos/engineer.jpg" width=100% height=30% />
 
@@ -117,8 +129,4 @@ management consulting.`
   * [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
 
 
-## Inspired
 
- * [Kevin Zhou](https://knzhou.github.io/)
- * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
- * [Brown physics student earns Ph.D. at age 89](https://www.brown.edu/news/2021-11-12/steiner?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR3IqbvsoSn-MuAUbU3TU6FW1dXEItcM91TFMjzduHbmVz7Ps37Up_31L2M)
