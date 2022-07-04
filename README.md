@@ -108,7 +108,7 @@ management consulting.`
 
 ------
 ## Engineering
-
+<img src="https://github.com/Tulamechatronics/The-Tree-of-Knowledge/blob/main/photos/engineer.jpg" width=100% height=30% />
 
 
 
