@@ -81,16 +81,18 @@
  * [🎬 MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [🎬 MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
 
 ###### Quantum Computing
- * [Introduction to Linear Algebra by Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?crid=2GVZYOJZ577O8&keywords=Introduction+to+Linear+Algebra+by+Strang%2C&qid=1656746891&sprefix=introduction+to+linear+algebra+by+strang%2C%2Caps%2C562&sr=8-1)
- * [MIT OCW's 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) `(This is an excellent thing to do in general, even if you don't stay
+ * [📚 Introduction to Linear Algebra by Strang](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/ref=sr_1_1?crid=2GVZYOJZ577O8&keywords=Introduction+to+Linear+Algebra+by+Strang%2C&qid=1656746891&sprefix=introduction+to+linear+algebra+by+strang%2C%2Caps%2C562&sr=8-1)
+ * [🎬 MIT OCW's 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) `(This is an excellent thing to do in general, even if you don't stay
 in physics, because linear algebra is arguably even more useful than calculus. You'll probably
 still need to use it if you go into computer science, finance, data science, or even, god forbid,
 management consulting.`
  * [UCBerkeleyX: Quantum Mechanics Quantum Computation](https://www.youtube.com/playlist?list=PL2fCZiDqOYYWR3UR9zkKrmW03igCZSL7P)
- * [Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.amazon.com/gp/product/1107002176/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=michaniels-20http://www.michaelnielsen.org/qcqi/)
- * [Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [Quantum Computation Course Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
+ * [📚 Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.amazon.com/gp/product/1107002176/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=michaniels-20http://www.michaelnielsen.org/qcqi/)
+ * [🎬 Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [Quantum Computation Course Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
 
 ##### Advanced Quantum Mechanics
+ * [📚 Principles of Quantum Mechanics by Shankar](https://www.amazon.com/Principles-Quantum-Mechanics-2nd-Shankar/dp/0306447908/ref=sr_1_1?crid=3HQO3XI6C887I&keywords=Principles+of+Quantum+Mechanics+by+Shankar&qid=1656907822&s=books&sprefix=principles+of+quantum+mechanics+by+shankar%2Cstripbooks-intl-ship%2C593&sr=1-1)
+ * [🎬 MIT OCW's 8.05 QUANTUM PHYSICS II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
 
 ### General Relativity
  * [🎬 Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
