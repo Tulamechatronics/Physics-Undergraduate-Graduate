@@ -22,15 +22,15 @@
 ### Curriculum   
 -----
 #### Pre University
-  * [Mechanics, Heat, Oscillations and Waves](https://www.youtube.com/playlist?list=PL4NqSBWEKZtesqC_-mp3iuGpX8RQ5P1Ps) `Prof. Balakrishnan nickname Feynman Indian`
-  * [Electro Magnetic Field](https://www.youtube.com/playlist?list=PL1CE5B4FFFA997E5D)
-  * [Yale Physics 1-2](https://oyc.yale.edu/physics)
+  * [🎬 Mechanics, Heat, Oscillations and Waves](https://www.youtube.com/playlist?list=PL4NqSBWEKZtesqC_-mp3iuGpX8RQ5P1Ps) `Prof. Balakrishnan nickname Feynman Indian`
+  * [🎬 Electro Magnetic Field](https://www.youtube.com/playlist?list=PL1CE5B4FFFA997E5D)
+  * [🎬 Yale Physics 1-2](https://oyc.yale.edu/physics)
   
 ##### Calculus  
-  * [MIT OCW's 18.01 SINGLE VARIABLE CALCULUS](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
-  * [MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
+  * [🎬 MIT OCW's 18.01 SINGLE VARIABLE CALCULUS](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+  * [🎬 MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
   
-##### [Algebra](https://www.youtube.com/c/MathTheBeautiful/playlists)
+##### [🎬 Algebra](https://www.youtube.com/c/MathTheBeautiful/playlists)
   * Part-I
   * Part-II
   * Part-III
@@ -57,23 +57,23 @@
 
 #### Wave and Oscillation
 
- * [Differential Equation - MIT OCW's 18.03](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
- * [MIT OCW's 8.03](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
- * [David Morin : Wave - Draft](https://scholar.harvard.edu/david-morin/waves?fbclid=IwAR23QlgwBE2U8GFQhkKXkcDaFv8vE6vxuljkyO_NdBF85bMOqs5K0qjcpRQ)
+ * [🎬 Differential Equation - MIT OCW's 18.03](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/)
+ * [🎬 MIT OCW's 8.03](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/)
+ * [📝 David Morin : Wave - Draft](https://scholar.harvard.edu/david-morin/waves?fbclid=IwAR23QlgwBE2U8GFQhkKXkcDaFv8vE6vxuljkyO_NdBF85bMOqs5K0qjcpRQ)
 
 #### Intermediate Electromagetism
 
  * [📚 Introduction to Electrodynamics by Griffiths](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419/ref=sr_1_1?crid=1BK86Q9AN8MEI&keywords=Introduction+to+Electrodynamics+by+Griffiths&qid=1656737667&sprefix=introduction+to+electrodynamics+by+griffiths%2Caps%2C755&sr=8-1)
- * [David Tong's note on Vector Calculus](http://www.damtp.cam.ac.uk/user/tong/vc.html)
+ * [📝 David Tong's note on Vector Calculus](http://www.damtp.cam.ac.uk/user/tong/vc.html)
 
 #### Lagrangian and Hamiltonian Mechanics 
   
  * [Classical Mechanics by Taylor](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X/ref=sr_1_2?crid=1DD1I1TMO3M0E&keywords=Classical+Mechanics+by+Taylor&qid=1656371697&sprefix=classical+mechanics+by+taylor%2Caps%2C430&sr=8-2)
- * [David Tong's notes on Dynamics](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
+ * [📝 David Tong's notes on Dynamics](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
 
 #### Intermediate Thermodynamics
- * [Concepts in Thermal Physics by Blundell and Blundell](https://www.youtube.com/playlist?list=PLDDCux6-RwmVQdtr0mt8BmzE7jhAJk-Sx)
- * [Thermal Physics by Schroeder](https://www.youtube.com/playlist?list=PLMcpDl1Pr-vjXYLBoIULvlWGlcBNu8Fod)
+ * [🎬 Concepts in Thermal Physics by Blundell and Blundell](https://www.youtube.com/playlist?list=PLDDCux6-RwmVQdtr0mt8BmzE7jhAJk-Sx)
+ * [🎬 Thermal Physics by Schroeder](https://www.youtube.com/playlist?list=PLMcpDl1Pr-vjXYLBoIULvlWGlcBNu8Fod)
 
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
@@ -88,7 +88,7 @@ still need to use it if you go into computer science, finance, data science, or 
 management consulting.`
  * [UCBerkeleyX: Quantum Mechanics Quantum Computation](https://www.youtube.com/playlist?list=PL2fCZiDqOYYWR3UR9zkKrmW03igCZSL7P)
  * [📚 Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.amazon.com/gp/product/1107002176/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=michaniels-20http://www.michaelnielsen.org/qcqi/)
- * [🎬 Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [Quantum Computation Course Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
+ * [🎬 Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [📝 Course Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
 
 ##### Advanced Quantum Mechanics
  * [📚 Principles of Quantum Mechanics by Shankar](https://www.amazon.com/Principles-Quantum-Mechanics-2nd-Shankar/dp/0306447908/ref=sr_1_1?crid=3HQO3XI6C887I&keywords=Principles+of+Quantum+Mechanics+by+Shankar&qid=1656907822&s=books&sprefix=principles+of+quantum+mechanics+by+shankar%2Cstripbooks-intl-ship%2C593&sr=1-1)
@@ -96,12 +96,13 @@ management consulting.`
 
 ### General Relativity
  * [🎬 Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
- * [🎬 General Relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
+ * [🎬 General Relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [📝 Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
  * [📚 Gravity by Hartle](https://www.amazon.com/Gravity-Introduction-Einsteins-General-Relativity/dp/0805386629)
  * [📚 A First Course in General Relativity by Schutz](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054/ref=sr_1_1?keywords=A+First+Course+in+General+Relativity+by+Schutz&qid=1656906689&s=books&sr=1-1)
  
  ### Particle Physics
- * [🎬 Particle Physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf) | [Course Note](https://inside.mines.edu/~aflourno/Particle/423.shtml)
+ * [🎬 Particle Physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf) | [📝 Course Note](https://inside.mines.edu/~aflourno/Particle/423.shtml)
+ * [📝 David Tong's notes on Particle Physics](http://www.damtp.cam.ac.uk/user/tong/particle.html)
  
 
 
