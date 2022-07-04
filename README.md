@@ -31,22 +31,22 @@
   * [MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
   
 ##### [Algebra](https://www.youtube.com/c/MathTheBeautiful/playlists)
-  *
-  *
-  *
-  *
+  * Part-I
+  * Part-II
+  * Part-III
+  * Part-IV
 -----
 #### Mechanics
 
-  * [An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
-  * [Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1)
+  * [📚 An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
+  * [📚 Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1)
 
 #### Electricity and Magnetism
 
-  * [Electricity and Magnetism by Pucell and Morin](https://www.amazon.com/Electricity-Magnetism-Edward-M-Purcell/dp/1107014026/ref=sr_1_fkmr3_1?crid=2MFCEBW7F7AIQ&keywords=Electricity+and+Magnetism+by+Pucell+and+Morin&qid=1656737221&sprefix=electricity+and+magnetism+by+pucell+and+morin%2Caps%2C281&sr=8-1-fkmr3)
+  * [📚 Electricity and Magnetism by Pucell and Morin](https://www.amazon.com/Electricity-Magnetism-Edward-M-Purcell/dp/1107014026/ref=sr_1_fkmr3_1?crid=2MFCEBW7F7AIQ&keywords=Electricity+and+Magnetism+by+Pucell+and+Morin&qid=1656737221&sprefix=electricity+and+magnetism+by+pucell+and+morin%2Caps%2C281&sr=8-1-fkmr3)
 
 #### Wave and Thermodynamics
-  * [Halliday, Resnick and Krane_Vol-1](https://www.amazon.com/Physics-1-Robert-Resnick/dp/0471320579/ref=sr_1_10?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737355&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-10) | [Halliday, Resnick and Krane_Vol-2](https://www.amazon.com/Physics-2-David-Halliday/dp/0471401943/ref=sr_1_13?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737463&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-13)
+  * [📚 Halliday, Resnick and Krane_Vol-1](https://www.amazon.com/Physics-1-Robert-Resnick/dp/0471320579/ref=sr_1_10?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737355&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-10) | [📚 Halliday, Resnick and Krane_Vol-2](https://www.amazon.com/Physics-2-David-Halliday/dp/0471401943/ref=sr_1_13?crid=6LYDKM0DM9EX&keywords=Halliday%2C+Resnick+and+Krane&qid=1656737463&sprefix=halliday%2C+resnick+and+krane%2Caps%2C278&sr=8-13)
   * [Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
@@ -63,7 +63,7 @@
 
 #### Intermediate Electromagetism
 
- * [Introduction to Electrodynamics by Griffiths](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419/ref=sr_1_1?crid=1BK86Q9AN8MEI&keywords=Introduction+to+Electrodynamics+by+Griffiths&qid=1656737667&sprefix=introduction+to+electrodynamics+by+griffiths%2Caps%2C755&sr=8-1)
+ * [📚 Introduction to Electrodynamics by Griffiths](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419/ref=sr_1_1?crid=1BK86Q9AN8MEI&keywords=Introduction+to+Electrodynamics+by+Griffiths&qid=1656737667&sprefix=introduction+to+electrodynamics+by+griffiths%2Caps%2C755&sr=8-1)
  * [David Tong's note on Vector Calculus](http://www.damtp.cam.ac.uk/user/tong/vc.html)
 
 #### Lagrangian and Hamiltonian Mechanics 
@@ -77,7 +77,7 @@
 
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
- * [Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
+ * [📚 Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
  * [MIT OCW 8.04 Barton Zweibach](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) `more clear` | [MIT OCW 8.04 Allan Adams](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) `more energetic`
 
 ###### Quantum Computing
@@ -93,8 +93,10 @@ management consulting.`
 ##### Advanced Quantum Mechanics
 
 ### General Relativity
- * [Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for dee p understanding`
+ * [Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
  * [general relativity in physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyliMevB36wgRbjXhJkoN_RUQ) | [Course Note](https://inside.mines.edu/~aflourno/GR/418.shtml) `Super organize course note`
+ * [📚 Gravity by Hartle](https://www.amazon.com/Gravity-Introduction-Einsteins-General-Relativity/dp/0805386629)
+ * [📚 A First Course in General Relativity by Schutz](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054/ref=sr_1_1?keywords=A+First+Course+in+General+Relativity+by+Schutz&qid=1656906689&s=books&sr=1-1)
  
  ### Particle Physics
  * []()
@@ -116,3 +118,4 @@ management consulting.`
 
  * [Kevin Zhou](https://knzhou.github.io/)
  * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
+ * [Brown physics student earns Ph.D. at age 89](https://www.brown.edu/news/2021-11-12/steiner?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR3IqbvsoSn-MuAUbU3TU6FW1dXEItcM91TFMjzduHbmVz7Ps37Up_31L2M)
