@@ -101,7 +101,7 @@ management consulting.`
  * [📚 A First Course in General Relativity by Schutz](https://www.amazon.com/First-Course-General-Relativity/dp/0521887054/ref=sr_1_1?keywords=A+First+Course+in+General+Relativity+by+Schutz&qid=1656906689&s=books&sr=1-1)
  
  ### Particle Physics
- * []()
+ * [🎬 Particle Physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf) | [Course Note](https://inside.mines.edu/~aflourno/Particle/423.shtml)
  
 
 
