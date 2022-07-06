@@ -41,8 +41,8 @@
 
 ##### Basic
 
-  * [📚 An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1)
-  * [📚 Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1)
+  * [📚 An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1) `MIT`
+  * [📚 Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1) `Harvard`
 
 ##### Advance
   * [🎬 Goldstein Classical Mechanics Professor Jacob Linder ](https://www.youtube.com/playlist?list=PLoRUNeJAicqbQPmKv3HNBIlcydy0CAI7k)
@@ -122,6 +122,7 @@ management consulting.`
  * [Electricity & Magnetism 8.311]()
  * [Quantum Mechanics 8.321]()
  * [Statistical Mechanics 8.333]()
+ * [Link Alppy](https://physics.mit.edu/academic-programs/graduate-students/doctoral-guidelines/?fbclid=IwAR283VZkwtNpaa9fQU9anOw_Rp8ohsHaroybeFzFK03vziamR3-QkogFU8I)
 
 ------
 
