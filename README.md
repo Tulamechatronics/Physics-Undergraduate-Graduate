@@ -109,6 +109,14 @@ management consulting.`
 **Topics Cover in this Curriculum:** `Lower-Division Undergraduate Courses` `Upper-Division Undergraduate Courses` `Graduate Courses` 
  * [🔎 Courses Taught By Richard Fitzpatrick : University of Texas at Austin](https://farside.ph.utexas.edu/teaching/teaching.html) `Courses  Hightlight`
  * [👨🏻‍🏫 Link to all Physics Courses UT Austin](https://farside.ph.utexas.edu/teaching/)
+ 
+### MIT admission
+
+**Core Requirement Written Exam / Classes:**
+ * [Classical Mechanics 8.309]()
+ * [Electricity & Magnetism 8.311]()
+ * [Quantum Mechanics 8.321]()
+ * [Statistical Mechanics 8.333]()
 
 ------
 
