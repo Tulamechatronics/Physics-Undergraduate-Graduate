@@ -77,9 +77,12 @@
  * [Classical Mechanics by Taylor](https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X/ref=sr_1_2?crid=1DD1I1TMO3M0E&keywords=Classical+Mechanics+by+Taylor&qid=1656371697&sprefix=classical+mechanics+by+taylor%2Caps%2C430&sr=8-2)
  * [📝 David Tong's notes on Dynamics](http://www.damtp.cam.ac.uk/user/tong/relativity.html)
 
-#### Intermediate Thermodynamics
+#### Intermediate Thermodynamics & Statistical Mechanics
  * [🎬 Concepts in Thermal Physics by Blundell and Blundell](https://www.youtube.com/playlist?list=PLDDCux6-RwmVQdtr0mt8BmzE7jhAJk-Sx)
  * [🎬 Thermal Physics by Schroeder](https://www.youtube.com/playlist?list=PLMcpDl1Pr-vjXYLBoIULvlWGlcBNu8Fod)
+ * [🎬 Basic Statistical Thermodynamics](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUeVHmfT2BkhcEibTeReWKg)
+ * [🎬 Intro Classical Statistical Mechanics](https://www.youtube.com/playlist?list=PLCC901B3A9445042D) `Feynman Indian`
+ * [🎬 Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQqNx0ElSk3Ip04Ofg7B22W)
 
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
