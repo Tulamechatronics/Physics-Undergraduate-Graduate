@@ -42,6 +42,9 @@
 ##### Basic
 
   * [8.01.1x Mechanics: Kinematics and Dynamics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/course/) `openlearninglibrary.mit.edu`
+  * [8.01.2x Mechanics: Momentum and Energy](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.2x+3T2018/course/) `openlearninglibrary.mit.edu`
+  * [8.01.3x Mechanics: Rotational Dynamics ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.3x+1T2019/course/) `openlearninglibrary.mit.edu`
+  * [8.01.4x Mechanics: Simple Harmonic Motion](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.4x+1T2019/course/) `openlearninglibrary.mit.edu`
 
   * [📚 An Introduction to Mechanics by Kleppner and Kolenkow](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119/ref=sr_1_1?crid=1ZNKK08JWX80Q&keywords=An+Introduction+to+Mechanics+by+Kleppner+and+Kolenkow&qid=1656737175&sprefix=an+introduction+to+mechanics+by+kleppner+and+kolenkow%2Caps%2C277&sr=8-1) `MIT`
   * [📚 Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1) `Harvard`
