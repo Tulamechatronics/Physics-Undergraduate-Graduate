@@ -151,7 +151,7 @@ management consulting.`
   * [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
   
  #### System Engineer
-  * [MIT edx _ Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/about) `openlearning.mit.edu`
+  * [MIT edx _ Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/about) || [MIT OCW's 15.053](https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/) `openlearning.mit.edu`
   * [Systems, Dynamics, and Sustainability](https://www.youtube.com/playlist?list=PLXBbGVSkQJqEResfDjmZFAlyqyBQd52mn)  `Equal to MIT xPro: System Thinking`
   * [Simulating Stochatic Systems](https://www.youtube.com/playlist?list=PLXBbGVSkQJqGj4E2VeolqHxa4IKV9n3yH)
  
