@@ -107,6 +107,7 @@ management consulting.`
 ##### Advanced Quantum Mechanics
  * [📚 Principles of Quantum Mechanics by Shankar](https://www.amazon.com/Principles-Quantum-Mechanics-2nd-Shankar/dp/0306447908/ref=sr_1_1?crid=3HQO3XI6C887I&keywords=Principles+of+Quantum+Mechanics+by+Shankar&qid=1656907822&s=books&sprefix=principles+of+quantum+mechanics+by+shankar%2Cstripbooks-intl-ship%2C593&sr=1-1)
  * [🎬 MIT OCW's 8.05 QUANTUM PHYSICS II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
+ * [Quantum Mechanics lecture notes by Littlejon  (Improved version of Sakurai)](http://bohr.physics.berkeley.edu/classes/221/1819/221.html) `Kevin Zhou recommended`
 
 ### General Relativity
  * [🎬 Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
@@ -128,7 +129,7 @@ management consulting.`
 **Core Requirement Written Exam / Classes:**
  * [Classical Mechanics 8.309]()
  * [Electricity & Magnetism 8.311]()
- * [Quantum Mechanics 8.321]()
+ * [Quantum Mechanics 8.321]()  
  * [Statistical Mechanics 8.333]()
  * [Link Alppy](https://physics.mit.edu/academic-programs/graduate-students/doctoral-guidelines/?fbclid=IwAR283VZkwtNpaa9fQU9anOw_Rp8ohsHaroybeFzFK03vziamR3-QkogFU8I)
 
