@@ -89,6 +89,11 @@
  * [🎬 Intro Classical Statistical Mechanics](https://www.youtube.com/playlist?list=PLCC901B3A9445042D) `Feynman Indian`
  * [🎬 Nonequilibrium Statistical Mechanics by Prof. V. Balakrishnan](https://www.youtube.com/playlist?list=PLbMVogVj5nJQqNx0ElSk3Ip04Ofg7B22W)
 
+
+#### Statistical Mechanics
+##### [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)  `Instructor: Mehran Kardar` 
+
+##### [Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
  * [📚 Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
@@ -104,7 +109,7 @@ management consulting.`
  * [📚 Quantum Computation and Quantum Information by Nielsen and Chuang](https://www.amazon.com/gp/product/1107002176/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107002176&linkCode=as2&tag=michaniels-20http://www.michaelnielsen.org/qcqi/)
  * [🎬 Quantum Computation - Caltech -John Preskill](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu) | [📝 Course Note](http://theory.caltech.edu/~preskill/ph219/ph219_2020-21.html)
 
-##### Advanced Quantum Mechanics
+###### Advanced Quantum Mechanics
  * [📚 Principles of Quantum Mechanics by Shankar](https://www.amazon.com/Principles-Quantum-Mechanics-2nd-Shankar/dp/0306447908/ref=sr_1_1?crid=3HQO3XI6C887I&keywords=Principles+of+Quantum+Mechanics+by+Shankar&qid=1656907822&s=books&sprefix=principles+of+quantum+mechanics+by+shankar%2Cstripbooks-intl-ship%2C593&sr=1-1)
  * [🎬 MIT OCW's 8.05 QUANTUM PHYSICS II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
  * [Quantum Mechanics lecture notes by Littlejon  (Improved version of Sakurai)](http://bohr.physics.berkeley.edu/classes/221/1819/221.html) `Kevin Zhou recommended`
