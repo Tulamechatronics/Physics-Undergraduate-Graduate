@@ -91,9 +91,10 @@
 
 
 #### Statistical Mechanics
-##### [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)  `Instructor: Mehran Kardar` 
+##### [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)  `Instructor: Mehran Kardar` `Kevin Zhou recommend`
 
-##### [Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)
+##### [Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)   `Instructor: Mehran Kardar` `Kevin Zhou recommend`
+
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
  * [📚 Introduction to Quantum Mechanics by Griffiths](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=22ZTFVGFDPRVB&keywords=Introduction+to+Quantum+Mechanics+by+Griffiths&qid=1656741551&sprefix=introduction+to+quantum+mechanics+by+griffiths%2Caps%2C578&sr=8-1) 
