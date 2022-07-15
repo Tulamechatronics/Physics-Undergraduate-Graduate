@@ -22,7 +22,7 @@
   
 ### Curriculum   
 -----
-#### Pre University
+### Pre University
   * [🎬 Mechanics, Heat, Oscillations and Waves](https://www.youtube.com/playlist?list=PL4NqSBWEKZtesqC_-mp3iuGpX8RQ5P1Ps) `Prof. Balakrishnan nickname Feynman Indian`
   * [🎬 Electro Magnetic Field](https://www.youtube.com/playlist?list=PL1CE5B4FFFA997E5D)
   * [🎬 Yale Physics 1-2](https://oyc.yale.edu/physics)
@@ -37,6 +37,7 @@
   * Part-III
   * Part-IV
 -----
+### Bachelor
 #### Classical Mechanics
 
 ##### Basic
@@ -130,7 +131,13 @@ management consulting.`
  * [🔎 Courses Taught By Richard Fitzpatrick : University of Texas at Austin](https://farside.ph.utexas.edu/teaching/teaching.html) `Courses  Hightlight`
  * [👨🏻‍🏫 Link to all Physics Courses UT Austin](https://farside.ph.utexas.edu/teaching/)
  
-### MIT admission
+ ------ 
+### Graduate - Postgraduate
+ * [ICTP](https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw/playlists)
+ * [Perimeter Institute](https://psi-online.perimeterinstitute.ca/collections)
+
+ 
+### MIT admission (Go straight to Phd)
 
 **Core Requirement Written Exam / Classes:**
  * [Classical Mechanics 8.309]()
@@ -138,7 +145,7 @@ management consulting.`
  * [Quantum Mechanics 8.321]()  
  * [Statistical Mechanics 8.333]()
  * [Link Alppy](https://physics.mit.edu/academic-programs/graduate-students/doctoral-guidelines/?fbclid=IwAR283VZkwtNpaa9fQU9anOw_Rp8ohsHaroybeFzFK03vziamR3-QkogFU8I)
-
+ 
 ------
 
 ## Inspired
