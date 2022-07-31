@@ -156,9 +156,6 @@ management consulting.`
 -----
 
 ## Engineering
-<img src="https://github.com/Tulamechatronics/The-Tree-of-Knowledge/blob/main/photos/engineer.jpg" width=100% height=30% />
-
-
 
 #### Electrical
   * [🎬 Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
@@ -168,6 +165,18 @@ management consulting.`
   * [MIT edx _ Optimization Methods in Business Analytics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.053x+3T2016/about) || [MIT OCW's 15.053](https://ocw.mit.edu/courses/15-053-optimization-methods-in-management-science-spring-2013/) `openlearning.mit.edu`
   * [Systems, Dynamics, and Sustainability](https://www.youtube.com/playlist?list=PLXBbGVSkQJqEResfDjmZFAlyqyBQd52mn)  `Equal to MIT xPro: System Thinking`
   * [Simulating Stochatic Systems](https://www.youtube.com/playlist?list=PLXBbGVSkQJqGj4E2VeolqHxa4IKV9n3yH)
+
+## Weeek 2
+<details>
+  <summary>In this week, we covered:</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  - [Lecture slide 1](https://drive.google.com/file/d/1O-3nAVXQ_DEc5KubMLckCthcaYyScba5/view?usp=sharing)
+  - [Lecture slide 2](https://drive.google.com/file/d/1VEceO3P3y5h9J2fWNW4TN1TF7i6yQcP3/view?usp=sharing)
+    * [Video lecture ](https://www.youtube.com/watch?v=mPv4zcvX9nM&list=PLWM_YBhktZmzTbddpFMR9I_aCD7m9G_Uv&index=2)
+<!--END_SECTION:activity-->
+</details> 
  
  
 ----- 
