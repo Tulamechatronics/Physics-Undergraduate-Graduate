@@ -127,7 +127,7 @@ management consulting.`
  * [🎬 Particle Physics at Colorado School of Mines](https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf) | [📝 Course Note](https://inside.mines.edu/~aflourno/Particle/423.shtml)
  * [📝 David Tong's notes on Particle Physics](http://www.damtp.cam.ac.uk/user/tong/particle.html)
 ------
-### 🏫 Additional 👨🏻‍🎓
+### Additional 👨🏻‍🎓
 **Topics Cover in this Curriculum:** `Lower-Division Undergraduate Courses` `Upper-Division Undergraduate Courses` `Graduate Courses` 
  * [🔎 Courses Taught By Richard Fitzpatrick : University of Texas at Austin](https://farside.ph.utexas.edu/teaching/teaching.html) `Courses  Hightlight`
  * [👨🏻‍🏫 Link to all Physics Courses UT Austin](https://farside.ph.utexas.edu/teaching/)
