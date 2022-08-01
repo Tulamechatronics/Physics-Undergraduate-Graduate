@@ -1,6 +1,5 @@
 # The Tree of Knowledge
-
- Elon Musk says, “it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.”
+     Elon Musk says, “it is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.”
 
 
 
@@ -12,7 +11,6 @@
 
 ------
 ## Physics
-<img src="https://github.com/Tulamechatronics/Gap_Knowledge/blob/main/photos/Solvay%20Conference%20on%20Physics.jpg" width=100% height=30% />
 
 
 ### Mental models
