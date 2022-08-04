@@ -159,8 +159,18 @@ management consulting.`
 ## Engineering
 
 #### Electrical
-  * [🎬 Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
-  * [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
+
+<details>
+  <summary> Courses detail :</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+  -  [🎬 Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
+  -  [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
+  
+<!--END_SECTION:activity-->
+</details> 
+ 
 
 
  #### System Engineer
