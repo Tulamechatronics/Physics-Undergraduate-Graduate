@@ -32,11 +32,12 @@
   * [🎬 MIT OCW's 18.01 SINGLE VARIABLE CALCULUS](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
   * [🎬 MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
   
-##### [🎬 Algebra](https://www.youtube.com/c/MathTheBeautiful/playlists)
+##### [🎬 Algebra + Tensor](https://www.youtube.com/c/MathTheBeautiful/playlists)
   * Part-I
   * Part-II
   * Part-III
   * Part-IV
+  * Introduction to Tensor Calculus
 -----
 ### Bachelor
 #### Classical Mechanics
