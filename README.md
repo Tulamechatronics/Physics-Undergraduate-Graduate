@@ -160,6 +160,7 @@ management consulting.`
 ## Engineering
 
  * [Ep 31: You and your Research](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) `Richard W Hamming : USA intellects` `Learning to Learn`
+ * [📚 Course pdf](https://drive.google.com/file/d/1t8T_LxnLc17vlWFTqVGVYEATiEyEhDTA/view?usp=sharing)
 
 #### Electrical
 
