@@ -159,6 +159,8 @@ management consulting.`
 
 ## Engineering
 
+ * [Ep_31: You and your Research](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) `Richard W Hamming`
+
 #### Electrical
 
 <details>
