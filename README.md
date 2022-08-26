@@ -169,6 +169,7 @@ management consulting.`
   <br/>
 
 <!--START_SECTION:activity-->
+  -  [🎬 Fundamental of Electric Circuit](https://www.youtube.com/playlist?list=PLJetlUwUXcs9C2I2JWqSJbKHd6MY0BSFI)
   -  [🎬 Introductory Circuits and Systems, Professor Ali Hajimiri California Institute of Technology (Caltech)](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z)
   -  [🎬 Analog Circuit Design (New 2019)  Professor Ali Hajimiri, Caltech](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) `Be aware! Prof lectures series like Game of Thrones for Engineers`
   
