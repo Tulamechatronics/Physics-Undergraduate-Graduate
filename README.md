@@ -39,7 +39,7 @@
   * Part-IV
   * Introduction to Tensor Calculus
 -----
-### Bachelor
+### Undergraduate - Graduate 
 #### Classical Mechanics
 
 ##### Basic
@@ -151,7 +151,7 @@ management consulting.`
 ------
 
 ## Inspired
- * [Kevin Zhou](https://knzhou.github.io/)
+ * [Kevin Zhou](https://knzhou.github.io/) `Advice After Introductory Physics` `The Theoretical Minimum`
  * [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU&t=252s)
  * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
  * [Brown physics student earns Ph.D. at age 89](https://www.brown.edu/news/2021-11-12/steiner?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR3IqbvsoSn-MuAUbU3TU6FW1dXEItcM91TFMjzduHbmVz7Ps37Up_31L2M)
