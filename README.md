@@ -64,19 +64,20 @@
   * [📚 Competitive Physics Vol-2 by Wang and Ricardo](https://www.amazon.com/Competitive-Physics-Thermodynamics-Electromagnetism-Relativity/dp/9813238534/ref=sr_1_2?crid=11X51XTGDVAL1&keywords=Competitive+Physics+Wang+and+Ricardo&qid=1656737307&sprefix=competitive+physics+wang+and+ricardo%2Caps%2C332&sr=8-2)
 
 #### A Broad overview of physics
-     Science is an adventure of the whole human race to learn to live in and perhaps
-     to love the universe in which they are. To be a part of it is to understand, to understand
-     oneself, to begin to feel that there is a capacity within man far beyond
-     what he felt he had, of an infinite extension of human possibilities.
-     I propose that science be taught at whatever level, from the lowest to the highest,
-     in the humanistic way. It should be taught with a certain historical understanding,
-     with a certain philosophical understanding, with a social understanding
-     and a human understanding in the sense of the biography, the nature of the people
-     who made this construction, the triumphs, the trials, the tribulations.
+     Science is an adventure of the whole human race to learn to live in and perhaps to love
+     the universe in which they are. To be a part of it is to understand, to understand oneself,
+     to begin to feel that there is a capacity within man far beyond what he felt he had,
+     of an infinite extension of human possibilities.
+     I propose that science be taught at whatever level, from the lowest to the highest, in the
+     humanistic way. It should be taught with a certain historical understanding, with a certain
+     philosophical understanding, with a social understanding and a human understanding in the
+     sense of the biography, the nature of the people who made this construction, the triumphs,
+     the trials, the tribulations.
                                                           -I.I. Rabi, Nobel Laureate in Physics
+                                                          
   * [🎬 Caltech - The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
   * [🎬 Sean Caroll - The Biggest Ideas in the Universe ](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
-  * [🎧 Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/) | [Bill Gates on FLP ](https://www.youtube.com/watch?v=ofQMbC2e_as&t=954s)
+  * [🎧 Feynman Lecture on Physics](https://www.feynmanlectures.caltech.edu/) `build up an intuitive for physics`| [Bill Gates on FLP ](https://www.youtube.com/watch?v=ofQMbC2e_as&t=954s)
   * [📗 Understanding Physics by Cassidy, Holton, and Rutherford](https://www.amazon.com/Understanding-Physics-Undergraduate-Texts-Contemporary/dp/0387987568/ref=sr_1_1?crid=32JJ1KC3O4JVI&keywords=Understanding+Physics+by+Cassidy%2C+Holton%2C+and+Rutherford&qid=1656371521&sprefix=understanding+physics+by+cassidy%2C+holton%2C+and+rutherford%2Caps%2C717&sr=8-1)
 
 #### Wave and Oscillation
