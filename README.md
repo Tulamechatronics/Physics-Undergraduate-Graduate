@@ -53,7 +53,7 @@
   * [📚 Indroduction to Classical Mechanics by Morin](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222/ref=sr_1_1?crid=161MONJ24N1ZY&keywords=introduction+to+classical+mechanics+by+morin&qid=1656737198&sprefix=indroduction+to+classical+mechanics+by+morin%2Caps%2C283&sr=8-1) `Harvard`
 
 ##### Advance
-  * [🎬 Goldstein Classical Mechanics Professor Jacob Linder ](https://www.youtube.com/playlist?list=PLoRUNeJAicqbQPmKv3HNBIlcydy0CAI7k)
+  * [🎬 Goldstein Classical Mechanics Professor Jacob Linder ](https://www.youtube.com/playlist?list=PLoRUNeJAicqbQPmKv3HNBIlcydy0CAI7k) `Graduate`
 
 #### Electricity and Magnetism
 
@@ -94,9 +94,9 @@
 
 
 #### Statistical Mechanics
-##### [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)  `Instructor: Mehran Kardar` `Kevin Zhou recommend`
+#####[Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
 
-##### [Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)   `Instructor: Mehran Kardar` `Kevin Zhou recommend`
+#####[Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)   `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
 
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
@@ -116,7 +116,7 @@ management consulting.`
 ###### Advanced Quantum Mechanics
  * [📚 Principles of Quantum Mechanics by Shankar](https://www.amazon.com/Principles-Quantum-Mechanics-2nd-Shankar/dp/0306447908/ref=sr_1_1?crid=3HQO3XI6C887I&keywords=Principles+of+Quantum+Mechanics+by+Shankar&qid=1656907822&s=books&sprefix=principles+of+quantum+mechanics+by+shankar%2Cstripbooks-intl-ship%2C593&sr=1-1)
  * [🎬 MIT OCW's 8.05 QUANTUM PHYSICS II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/)
- * [Quantum Mechanics lecture notes by Littlejon  (Improved version of Sakurai)](http://bohr.physics.berkeley.edu/classes/221/1819/221.html) `Kevin Zhou recommended`
+ * [Quantum Mechanics lecture notes by Littlejon  (Improved version of Sakurai)](http://bohr.physics.berkeley.edu/classes/221/1819/221.html) `Kevin Zhou recommended` `Graduate`
 
 ### General Relativity
  * [🎬 Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) `read The Road to Reality also need this course for deep understanding`
@@ -134,7 +134,7 @@ management consulting.`
  * [👨🏻‍🏫 Link to all Physics Courses UT Austin](https://farside.ph.utexas.edu/teaching/)
  
  ------ 
-### Graduate - Postgraduate
+### Graduate - Postgraduate `Graduate`
  * [ICTP](https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw/playlists)
  * [Perimeter Institute](https://psi-online.perimeterinstitute.ca/collections)
 
