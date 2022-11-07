@@ -191,7 +191,10 @@ management consulting.`
   - [Simulating Stochatic Systems](https://www.youtube.com/playlist?list=PLXBbGVSkQJqGj4E2VeolqHxa4IKV9n3yH)
 <!--END_SECTION:activity-->
 </details> 
- 
+
+## ចំនួនអ្នកទស្សនាសរុប (Total Visitors)
+
+![](https://komarev.com/ghpvc/?username=Grade12-Physics&color=brightgreen&label=VISITORS)
  
 ----- 
 
