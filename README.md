@@ -105,9 +105,9 @@
 
 
 #### Statistical Mechanics
-#####[Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
+ * [Statistical Mechanics I: Statistical Mechanics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
 
-#####[Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)   `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
+ * [Statistical Mechanics II: Statistical Mechanics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7)   `Instructor: Mehran Kardar` `Kevin Zhou recommend` `Graduate`
 
 #### Quantum Mechanics
 ###### Core Quantum Mechanics
@@ -163,6 +163,7 @@ management consulting.`
 
 ## Inspired
  * [Kevin Zhou](https://knzhou.github.io/) `Advice After Introductory Physics` `The Theoretical Minimum`
+ * [So You Want to Learn Physics…](https://www.susanrigetti.com/physics)
  * [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU&t=252s)
  * [Ri Lecture / Quantum Fields: The Real Building Blocks of the Universe - with David Tong](https://www.youtube.com/watch?v=zNVQfWC_evg&t=3092s)
  * [Brown physics student earns Ph.D. at age 89](https://www.brown.edu/news/2021-11-12/steiner?utm_source=dlvr.it&utm_medium=twitter&fbclid=IwAR3IqbvsoSn-MuAUbU3TU6FW1dXEItcM91TFMjzduHbmVz7Ps37Up_31L2M)
