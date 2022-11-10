@@ -147,7 +147,7 @@ management consulting.`
  ------ 
 ### Graduate - Postgraduate `Graduate`
  * [ICTP](https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw/playlists)
- * [Perimeter Institute](https://psi-online.perimeterinstitute.ca/collections)
+ * [Perimeter Institute](https://pirsa.org/) `Canada`
 
  
 ### MIT admission (Go straight to Phd)
