@@ -15,11 +15,15 @@
 ## Physics
 
 ### Are you sure to study Physics? (Read these)
-[1. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the <br> 
-process of becoming a physicist in the US, from high school to postdoc applications. There's <br>
+[1. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the process <br> 
+of becoming a physicist in the US, from high school to postdoc applications. There's <br>
 not much on the learning process itself, but it's helpful, especially if you're coming from outside <br>
-physics or outside the US.6
-
+physics or outside the US.
+<br>
+[2.So You Want to Learn Physics....](https://www.susanrigetti.com/physics) Susan Rigetti's book list is much more useful than the
+others here, because she understands how it felt to be a student. This short list covers a full
+undergraduate and graduate education, based on the canonical books.
+<br>
 
 ### Mental models
 **Topics Cover:** `First Principles` 
