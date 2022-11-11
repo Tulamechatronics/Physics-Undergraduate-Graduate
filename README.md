@@ -14,6 +14,12 @@
 ------
 ## Physics
 
+### Are you sure to study Physics? (Read these)
+[1. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the <br> 
+process of becoming a physicist in the US, from high school to postdoc applications. There's <br>
+not much on the learning process itself, but it's helpful, especially if you're coming from outside <br>
+physics or outside the US.6
+
 
 ### Mental models
 **Topics Cover:** `First Principles` 
