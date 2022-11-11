@@ -20,8 +20,8 @@ of becoming a physicist in the US, from high school to postdoc applications. The
 not much on the learning process itself, but it's helpful, especially if you're coming from outside <br>
 physics or outside the US.
 <br>
-[2.So You Want to Learn Physics....](https://www.susanrigetti.com/physics) Susan Rigetti's book list is much more useful than the
-others here, because she understands how it felt to be a student. This short list covers a full
+[2. So You Want to Learn Physics....](https://www.susanrigetti.com/physics) Susan Rigetti's book list is much more useful than the <br>
+others here, because she understands how it felt to be a student. This short list covers a full <br>
 undergraduate and graduate education, based on the canonical books.
 <br>
 
