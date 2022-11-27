@@ -16,7 +16,7 @@
 
 ### Are you sure to study Physics? (Read these)
 
-[KAIST Undergraduate-Graduate Courses](https://drive.google.com/file/d/1hQ9GmU9tvf6E1enUko8rFBxNkKYAxN4u/view?usp=share_link)
+[1. KAIST Undergraduate-Graduate Courses](https://drive.google.com/file/d/1hQ9GmU9tvf6E1enUko8rFBxNkKYAxN4u/view?usp=share_link)
 <br>
 <br>
 [2. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the process <br> 
