@@ -15,13 +15,17 @@
 ## Physics
 
 ### Are you sure to study Physics? (Read these)
-[1. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the process <br> 
+
+[KAIST Undergraduate-Graduate Courses](https://drive.google.com/file/d/1hQ9GmU9tvf6E1enUko8rFBxNkKYAxN4u/view?usp=share_link)
+<br>
+<br>
+[2. So You Want To Be A Physicist.](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit) This is a huge resource that covers everything about the process <br> 
 of becoming a physicist in the US, from high school to postdoc applications. There's <br>
 not much on the learning process itself, but it's helpful, especially if you're coming from outside <br>
 physics or outside the US.
 <br>
 <br>
-[2. So You Want to Learn Physics....](https://www.susanrigetti.com/physics) Susan Rigetti's book list is much more useful than the <br>
+[3. So You Want to Learn Physics....](https://www.susanrigetti.com/physics) Susan Rigetti's book list is much more useful than the <br>
 others here, because she understands how it felt to be a student. This short list covers a full <br>
 undergraduate and graduate education, based on the canonical books.
 <br>
