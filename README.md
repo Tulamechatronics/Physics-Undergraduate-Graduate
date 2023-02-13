@@ -38,6 +38,16 @@ undergraduate and graduate education, based on the canonical books.
   
 ### Curriculum   
 -----
+Calculus I topics: including limits, derivatives and integration
+Calculus II topics: including some integration techniques, parametric equations, vectors, and knowledge of three dimensional space
+
+### Self-Paced `Khan Academy`
+  * [Precalculs](https://www.khanacademy.org/math/precalculus)
+  * [Algebra](https://www.khanacademy.org/math/college-algebra)
+  * [Cal-1](https://www.khanacademy.org/math/calculus-2) ; [Cal-2](https://www.khanacademy.org/math/calculus-2) 
+  * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) 
+
+
 ### Pre University
   * [🎬 Mechanics, Heat, Oscillations and Waves](https://www.youtube.com/playlist?list=PL4NqSBWEKZtesqC_-mp3iuGpX8RQ5P1Ps) `Prof. Balakrishnan nickname Feynman Indian`
   * [🎬 Electro Magnetic Field](https://www.youtube.com/playlist?list=PL1CE5B4FFFA997E5D)
@@ -48,11 +58,11 @@ undergraduate and graduate education, based on the canonical books.
   * [🎬 MIT OCW's 18.02 MULTIVARIABLE CALCULUS](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/)
   
 ##### [🎬 Algebra + Tensor](https://www.youtube.com/c/MathTheBeautiful/playlists)
-  * Part-I
-  * Part-II
-  * Part-III
-  * Part-IV
-  * Introduction to Tensor Calculus
+  * [Part-I](https://www.youtube.com/watch?v=Fnfh8jNqBlg&list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
+  * [Part-II](https://www.youtube.com/watch?v=I04GHpKc-WQ&list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU)
+  * [Part-III](https://www.youtube.com/watch?v=odV3oJOpE8s&list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5)
+  * [Part-IV](https://www.youtube.com/watch?v=Ww_aQqWZhz8&list=PLlXfTHzgMRULZfrNCrrJ7xDcTjGr633mm)
+  * [Introduction to Tensor Calculus](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq)
 -----
 ### Undergraduate - Graduate 
 #### Classical Mechanics
