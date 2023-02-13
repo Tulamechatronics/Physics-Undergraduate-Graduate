@@ -44,11 +44,12 @@ Calculus II topics: including some integration techniques, parametric equations,
 <br>
 
 
-### Self-Paced `Khan Academy`
+### Self-Paced `Khan Academy`  `Paul's Note`
   * [Precalculs](https://www.khanacademy.org/math/precalculus)
   * [Algebra](https://www.khanacademy.org/math/college-algebra)
   * [Cal-1](https://www.khanacademy.org/math/calculus-2) ; [Cal-2](https://www.khanacademy.org/math/calculus-2) 
   * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) `Paul's Note Online`
+  * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
 
 
 ### Pre University
