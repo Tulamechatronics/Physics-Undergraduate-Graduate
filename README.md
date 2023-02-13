@@ -38,18 +38,14 @@ undergraduate and graduate education, based on the canonical books.
   
 ### Curriculum   
 -----
-Calculus I topics: including limits, derivatives and integration
-<br>
-Calculus II topics: including some integration techniques, parametric equations, vectors, and knowledge of three dimensional space
-<br>
 
-
-### Self-Paced `Khan Academy`  `Paul's Note`
+### Self-Paced `Khan Academy`  `Paul's Note` `The University of utah`
   * [Precalculs](https://www.khanacademy.org/math/precalculus)
   * [Algebra](https://www.khanacademy.org/math/college-algebra)
   * [Cal-1](https://www.khanacademy.org/math/calculus-2) ; [Cal-2](https://www.khanacademy.org/math/calculus-2) 
   * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) `Paul's Note Online`
-  * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
+  * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx) `Paul's Note Online`
+  * [Topics:  Intermediate Algebra; Introduction to Quantitative Reasoning; College Algebra;  Trigonometry; Cal-I-II-III](https://www.math.utah.edu/lectures/)
 
 
 ### Pre University
