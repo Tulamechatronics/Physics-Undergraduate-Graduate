@@ -39,13 +39,16 @@ undergraduate and graduate education, based on the canonical books.
 ### Curriculum   
 -----
 Calculus I topics: including limits, derivatives and integration
+<br>
 Calculus II topics: including some integration techniques, parametric equations, vectors, and knowledge of three dimensional space
+<br>
+
 
 ### Self-Paced `Khan Academy`
   * [Precalculs](https://www.khanacademy.org/math/precalculus)
   * [Algebra](https://www.khanacademy.org/math/college-algebra)
   * [Cal-1](https://www.khanacademy.org/math/calculus-2) ; [Cal-2](https://www.khanacademy.org/math/calculus-2) 
-  * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) 
+  * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) `Paul's Note Online`
 
 
 ### Pre University
