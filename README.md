@@ -9,7 +9,7 @@
 - [Physics](#Physics)
 - [Inspired](#Inspired)
 - [Engineering](#Engineering)
-- [ចំនួនអ្នកទស្សនាសរុប (Total Visitors)](##ចំនួនអ្នកទស្សនាសរុប-(-Total-Visitors-))
+- [ចំនួនអ្នកទស្សនាសរុប (Total Visitors)](##ចំនួនអ្នកទស្សនាសរុប)
 
 ------
 ## Physics
@@ -231,7 +231,8 @@ management consulting.`
 <!--END_SECTION:activity-->
 </details> 
 
-## ចំនួនអ្នកទស្សនាសរុប (Total Visitors)
+## ចំនួនអ្នកទស្សនាសរុប
+`Total Visitors`
 
 ![](https://komarev.com/ghpvc/?username=Physics-Undergraduate-Graduate&color=brightgreen&label=VISITORS)
  
