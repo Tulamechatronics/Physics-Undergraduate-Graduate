@@ -189,6 +189,8 @@ management consulting.`
 ------
 
 ## Inspired
+ 
+ * [PAE (Physics After Engineering) _citizenofscience](https://citizensofscience.com/physics/best-physics-lectures-for-jam-complied-by-toppers?fbclid=IwAR1WITP8Ew_zXoUtOmYFEsDamwqbvhPH9Gi06M8yLwocJet8bsSG_DTvoss)
  * [Kevin Zhou](https://knzhou.github.io/) `Advice After Introductory Physics` `The Theoretical Minimum`
  * [So You Want to Learn Physics…](https://www.susanrigetti.com/physics)
  * [A Brief History of Quantum Mechanics - with Sean Carroll](https://www.youtube.com/watch?v=5hVmeOCJjOU&t=252s)
