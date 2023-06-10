@@ -35,6 +35,7 @@ undergraduate and graduate education, based on the canonical books.
 
   * [The First Principles Method Explained by Elon Musk](https://www.youtube.com/watch?v=NV3sBlRgzTI)
   * [How Elon Musk solves problems: First principles thinking explained | Lex Fridman](https://www.youtube.com/watch?v=54OSbbtXrdI&t=295s)
+  * [Reading-First Principles](https://fs.blog/first-principles/)
   
 ### Curriculum   
 -----
