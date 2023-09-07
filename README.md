@@ -41,6 +41,8 @@ undergraduate and graduate education, based on the canonical books.
 -----
 
 ### Self-Paced `Khan Academy`  `Paul's Note` `The University of utah`
+
+  * [Self-taught Calculus](https://medium.com/@comnerd23/%E1%9E%9A%E1%9F%80%E1%9E%93-calculus-%E1%9E%8A%E1%9F%84%E1%9E%99%E1%9E%81%E1%9F%92%E1%9E%9B%E1%9E%BD%E1%9E%93%E1%9E%AF%E1%9E%84-bd3442f3ad57)
   * [Precalculs](https://www.khanacademy.org/math/precalculus)
   * [Algebra](https://www.khanacademy.org/math/college-algebra)
   * [Cal-1](https://www.khanacademy.org/math/calculus-2) ; [Cal-2](https://www.khanacademy.org/math/calculus-2) 
