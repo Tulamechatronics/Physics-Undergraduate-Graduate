@@ -49,6 +49,11 @@ undergraduate and graduate education, based on the canonical books.
   * [Cal-3](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) `Paul's Note Online`
   * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx) `Paul's Note Online`
   * [Topics:  Intermediate Algebra; Introduction to Quantitative Reasoning; College Algebra;  Trigonometry; Cal-I-II-III](https://www.math.utah.edu/lectures/)
+##### Steve Butler (Iowa State Unversity)
+  * [Basic Calculus](https://www.calc1.org/)
+  * [Advance Calculus](https://www.calc2.org/)
+  * [Multivariable Calculus](https://www.calc3.org/)
+  * [Differential Equations](https://www.calc4.org/)
 
 
 ### Pre University
